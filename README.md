@@ -1,2 +1,2 @@
-# Advent_of_Code_2024
-Practicing C++ by completing Advent of Code 2024
+# Advent_of_Code_2025
+Practicing C++ by completing Advent of Code 2025
